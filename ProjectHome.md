@@ -1,0 +1,1 @@
+Code illustrating how to write a unit test with GAE.  For a thorough description of this example you can visit: http://www.cuberick.com/2008/11/unit-test-your-google-app-engine-models.html
